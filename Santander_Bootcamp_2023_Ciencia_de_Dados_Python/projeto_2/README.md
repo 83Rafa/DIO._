@@ -10,6 +10,7 @@
     <p>Consumir os dados da API da Santander Dev Week 2023 e enviar mensagens personalizadas a "clientes" através da API do ChatGPT</p>
     <p><a href="https://github.com/83Rafa/DIO._/blob/main/Santander_Bootcamp_2023_Ciencia_de_Dados_Python/projeto_2/sdw2023.ipynb">Reprodução do Projeto</a> feito pelo expert.</p>
     <h3>Projeto Repaginado</h3>
+    <p>Acesse o arquivo <a href="https://github.com/83Rafa/DIO._/blob/main/Santander_Bootcamp_2023_Ciencia_de_Dados_Python/projeto_2/dio_sdw2023.ipynb">aqui</a>.</p>
     <p>Para uma abordagem diferente foi realizada um a requisição <strong>GET</strong> de todos os usuários para poder analisar os dados até então enviados.</p>
 </div>
 <div>
@@ -52,6 +53,7 @@
         <img src="img/tabela_msg.png" width="1000" align="right">
     </figure>
 </div>
+<hr>
 <footer>
   <div class="logotipo" align="right">
     <figure>
