@@ -6,7 +6,7 @@
 </div>
   <br>
 <div align="center">
-  <img src="https://smartstore.com/media/1959/content/1959.jpg" width=1200>
+  <img src="[https://smartstore.com/media/1959/content/1959.jpg](https://cdn.shopaccino.com/igmguru/products/neo4j-training-online-3947703018631582_l.jpg?v=532)" width=1200>
 </div>
 <div>
   <h3>Repositorio Para Projetos da <a href="https://web.dio.me/track/672a7491-d161-4bb8-b74c-44a2749f78ce">Bootcamp: Neo4j - Análise de Dados com Grafos</a></h3>
