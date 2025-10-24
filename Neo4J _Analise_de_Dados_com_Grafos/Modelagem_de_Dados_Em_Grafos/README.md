@@ -11,7 +11,3 @@
 <div>
   <h3>Repositorio Para Projetos da <a href="https://web.dio.me/track/672a7491-d161-4bb8-b74c-44a2749f78ce">Bootcamp: Neo4j - Análise de Dados com Grafos</a></h3>
 </div>
-<h3>Desafio de Projeto: </h3>
-<p>Modelagem de Dados em Grafos de um Serviço de Streaming</p>
-<p>Representação Gráfica do projeto:</p>
-<img src="img/filmes_arrows.png" alt="Imagem PNG da representação em Grafos"></img>
