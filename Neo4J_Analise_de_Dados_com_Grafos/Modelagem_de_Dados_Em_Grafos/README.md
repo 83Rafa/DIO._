@@ -6,7 +6,7 @@
 </div>
   <br>
 <div align="center">
-  <img src="img/neo4j.jpg" width=1200>
+  <img src="https://github.com/83Rafa/DIO._/blob/main/Neo4J_Analise_de_Dados_com_Grafos/Modelagem_de_Dados_Em_Grafos/Projeto_1/img/neo4j.jpg" width=1200>
 </div>
 <div>
   <h3>Repositorio Para Projetos da <a href="https://web.dio.me/track/672a7491-d161-4bb8-b74c-44a2749f78ce">Bootcamp: Neo4j - Análise de Dados com Grafos</a></h3>
