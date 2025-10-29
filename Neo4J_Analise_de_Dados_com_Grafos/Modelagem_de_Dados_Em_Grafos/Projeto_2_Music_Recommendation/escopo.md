@@ -1,8 +1,12 @@
 <div>
   <h1>Escopo do Projeto:</h1>
+  <h3>
+    <strong>1. Baixar uma base de dados.</strong>
+  </h3>
+  <p>O projeto será baseado na amostra aleatória de uma base de dados do <strong>Kaggle</strong>.
 
   <h3>
-    <strong>1. Definir os tipos de nós (entidades principais)</strong>
+    <strong>2. Definir os tipos de nós (entidades principais)</strong>
   </h3>
   <p>Criar os seguintes nós com propriedades básicas:</p>
   <ul>
@@ -12,10 +16,7 @@
     <li><strong>Artist:</strong> nome, gênero principal</li>
     <li><strong>Genre:</strong> nome do estilo (ex: rock, rap, hip-hop)</li>
   </ul>
-  <br />
-  <hr />
-  <br />
-  <h3>2. Definir os relacionamentos entre os nós</h3>
+  <h3>3. Definir os relacionamentos entre os nós</h3>
   <p>Conexões que representam ações ou vínculos:</p>
 
 | Relacionamento     | Origem | Destino | Significado                                 |
@@ -28,9 +29,9 @@
 | PART_OF            | Music  | Album   | A música pertence a um álbum                |
 | PERFORMED_BY       | Music  | Artist  | Quem canta ou toca a música                 |
 
-<br><hr><br>
+<br>
 
-<h3>3. Organizar os dados para entrada</h3>
+<h3>4. Organizar os dados para entrada</h3>
 
 - Usuários e seus IDs
 
@@ -38,15 +39,11 @@
 
 - Artistas e seus gêneros
 
-- Álbuns e suas músicas
-
 - Gêneros disponíveis
 
 - Ações dos usuários (quem ouviu o quê, quem curtiu, quem segue quem)
 
-<br><hr><br>
-
-<h3>4. Criar os nós no Arrows.app</h3>
+<h3>5. Criar os nós no Arrows.app</h3>
 
 - Crie visualmente os nós com seus labels (User, Music, etc.)
 
@@ -54,9 +51,7 @@
 
 - Use cores diferentes para cada tipo de nó para facilitar a leitura
 
-<br><hr><br>
-
-<h3>5. Adicionar os relacionamentos</h3>
+<h3>6. Adicionar os relacionamentos</h3>
 
 - Usar setas com nomes como LISTENED, LIKED, FOLLOWED, etc.
 
@@ -64,11 +59,7 @@
 
 - Um opcional é adicionar propriedades (ex: data da escuta, número de vezes)
 
-</div>
-
-<br><hr><br>
-
-<h3>6. Testar a estrutura</h3>
+<h3>7. Testar a estrutura</h3>
 <p>Verificar se cada música tem:
 
 - Um artista (PERFORMED_BY)
@@ -86,12 +77,11 @@ Verificar se cada usuário tem:
 
 - Artistas seguidos (FOLLOWED)
 
-<br><hr><br>
-
-<h3>7. Preparar para recomendação</h3>
+<h3>8. Preparar para recomendação</h3>
 
 - Com base nos gêneros que o usuário mais ouve ou curte
 
 - Com base nos artistas que ele segue
 
 - Com base nas músicas semelhantes às que ele já escutou
+</div>
