@@ -1,9 +1,10 @@
-<div style="text-align: justify">
-<div style="text-align: center">
+
+<div style="text-align: center;">
 <picture>
-  <img src="Img/lastfm.png">
+  <img src="Img/lastfm.png" width="1000">
 </picture>
 </div>
+<div style="text-align: justify">
 <h3>Desenvolvimento</h3>
 <p>Para enriquecer o grafo com dados mais precisos, foi utilizada a base de dados <a href="https://www.kaggle.com/datasets/undefinenull/million-song-dataset-spotify-lastfm" alt="Logotipo last.fm">Lastfm.csv</a>, originalmente disponível no <strong>Kaggle</strong>.</p>
 <p>Essa base contém milhares de registros de interações entre usuários e músicas, incluindo escutas, curtidas e conexões com artistas. A partir dela, foi extraída uma amostra aleatória de 500 músicas, com o objetivo de simular o comportamento de cinco usuários fictícios.</p> 
@@ -156,5 +157,5 @@ times_played: toInteger(row.times_played)
 <h3>Conclusão do Projeto</h3>
 <p>Com a estrutura de grafo construída e os dados devidamente importados e conectados, já é possível implementar um sistema de recomendações eficaz baseado em afinidade de gêneros, popularidade de artistas e similaridade entre usuários. As consultas em Cypher permitem gerar playlists personalizadas, identificar padrões de escuta e sugerir novas faixas com base em comportamentos reais.</p> 
 <p>Embora técnicas de Machine Learning possam ser aplicadas para criar um sistema mais robusto — incorporando modelos preditivos, aprendizado colaborativo ou redes neurais —, para o propósito deste desafio, o projeto está concluído com sucesso. Ele cumpre seu papel de demonstrar como dados musicais podem ser modelados em grafos e utilizados para gerar recomendações inteligentes e contextualizadas.
-<p>Clique <a href="https://www.kaggle.com/datasets/undefinenull/million-song-dataset-spotify-lastfm" alt="Logotipo last.fm">aqui</a> para acessar o banco de imagens do <strong>Neo4j Aura</strong>.</p>
+<p>Clique <a href="https://github.com/83Rafa/DIO._/tree/main/Neo4J_Analise_de_Dados_com_Grafos/Modelagem_de_Dados_Em_Grafos/Projeto_2_Music_Recommendation/Img">aqui</a> para acessar o banco de imagens do <strong>Neo4j Aura</strong>.</p>
 </div>
